@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SRX5reDq4c7P/tJXOnlw3Johq6On0hukJwWoX73zcnAPVimR/wsoqPABKCFS1rZzbZ18uPQV4445xPcWwlVRjw==",
+  "success": true,
+  "projectFilePath": "/app/aspnetapp/aspnetapp.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.netcore.app.ref/7.0.9/microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.app.host.linux-musl-arm64/7.0.9/microsoft.netcore.app.host.linux-musl-arm64.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
